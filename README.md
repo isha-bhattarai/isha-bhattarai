@@ -38,9 +38,9 @@
 
 | ✨ Project | What it is | Made with |
 |:--|:--|:--|
-| 🕵️‍♀️ **[Detectra](https://github.com/isha-bhattarai)** | Deepfake detection web app — 90%+ validation accuracy with explainable Grad-CAM results *(final-year project)* | `PyTorch` `ResNeXt50 + LSTM` `Django` |
+| 🕵️‍♀️ **[Detectra](https://github.com/isha-bhattarai/Detectra)** | Deepfake detection web app — 90%+ validation accuracy with explainable Grad-CAM results *(final-year project)* | `PyTorch` `ResNeXt50 + LSTM` `Django` |
 | 🛎️ **SewaNow** | Full UI/UX design system for a home-services marketplace — 20+ screens across 3 interfaces | `Figma` `Design Systems` |
-| 📚 **StudywithISHA** | AI-powered academic tutor built on retrieval-augmented generation | `LangChain` `ChromaDB` `Gemini` |
+| 📚 **[StudywithISHA](https://github.com/isha-bhattarai/ai-tutor)** | AI-powered academic tutor built on retrieval-augmented generation | `LangChain` `ChromaDB` `Gemini` |
 
 <br/>
 
@@ -59,21 +59,6 @@
 **everyday**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,notion&theme=light" alt="everyday tools"/>
-
-</div>
-
-<br/>
-
-## 🌷 &nbsp;Numbers, but make them pretty
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isha-bhattarai&show_icons=true&hide_border=true&bg_color=FFF5F7&title_color=E56B8C&text_color=8A7580&icon_color=F4A825&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha-bhattarai&layout=compact&hide_border=true&bg_color=FFF5F7&title_color=E56B8C&text_color=8A7580&langs_count=6" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=isha-bhattarai&hide_border=true&background=FFF5F7&ring=E56B8C&fire=F4A825&currStreakLabel=E56B8C&sideLabels=8A7580&currStreakNum=8A7580&sideNums=8A7580&dates=B9A6AE" alt="GitHub streak"/>
 
 </div>
 
